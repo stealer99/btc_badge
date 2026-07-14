@@ -10,3 +10,5 @@ Local storage only. User preferences (selected exchange, display toggles, chart 
 Network requests. The extension connects only to public market-data APIs — Bitget, Binance, Hyperliquid, and Upbit — to fetch cryptocurrency prices. These requests contain no personal information or page content.
 Page content. The content script renders a price widget on web pages but does not read, modify, or transmit any page content.
 Bookmarks. If the bookmark ticker feature is enabled, the extension manages exactly one bookmark it created; it does not read other bookmarks.
+
+Contact: https://github.com/stealer99/btc_badge/issues
